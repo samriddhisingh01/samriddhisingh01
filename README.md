@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6f91,100:ffc93c&height=150&section=header&text=SAMRIDDHI%20SINGH&fontSize=48&fontAlignY=40" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff6f91,100:ffc93c&height=150&section=header&text=SAMRIDDHI%20SINGH&fontSize=38&fontAlignY=40" alt="banner" />
 </p>
 
 <h1 align="center">✨ Hi, I'm Samriddhi Singh! ✨</h1>

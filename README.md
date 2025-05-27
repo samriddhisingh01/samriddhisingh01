@@ -19,22 +19,10 @@
 
 <p align="center">
   <b>B.Tech, Computer Science & Engineering | KIIT, 2026</b> <br>
-  <img src="https://img.shields.io/badge/CGPA-8.67-6adcfc?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Class%20XII-91%25-ffc93c?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Class%20X-91%25-ff6f91?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+  
 </p>
 
 ---
-
-## 🎓 **Academic Details**
-| Course   | Institute/College         | Board/University | Score  | Year |
-|----------|--------------------------|------------------|--------|------|
-| B.Tech   | KIIT                     | KIIT             | 8.67 CGPA | 2022-26 |
-| Class XII| Ryan International School| CBSE             | 91%    | 2022 |
-| Class X  | Ryan International School| CBSE             | 91%    | 2020 |
-
----
-
 ## 📚 **Subjects / Electives**
 `OOPS in Java` • `Computer Network` • `Operating System` • `Artificial Intelligence` • `DBMS`  
 `Software Project Management` • `Cloud Computing` • `Machine Learning`

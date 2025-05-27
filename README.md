@@ -23,7 +23,6 @@
 </p>
 
 ---
-
 ## 🛠️ My Tech Playground
 
 <p align="center">
@@ -37,6 +36,20 @@
   <img src="https://img.shields.io/badge/Web-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
+<!-- New: Add a Recent Experiments subsection for extra context and personality -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+</p>
+
+### 🧪 Recent Experiments
+- 🛠️ Building REST APIs and backend systems
+- 🌐 Exploring modern frontend frameworks & web components
+- 🤖 Playing with AI/ML & OpenAI APIs
+
+---
 ---
 
 ## 🚀 Projects That Excite Me

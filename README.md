@@ -59,15 +59,6 @@
 
 ---
 
-## 🏅 Certifications
-
-| 🏆 Certification | Authority |
-|------------------|-----------|
-| AWS Cloud Practitioner | AWS |
-| OCI 2024 GenAI Pro | Oracle |
-
----
-
 ## 🌈 About Me
 
 - 🤝 Open for collabs: web, AI/ML, cloud!

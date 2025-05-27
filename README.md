@@ -102,7 +102,7 @@
 ---
 
 ## ✨ **A Little More About Me**
-- 📬 **Email:** [samriddhisingh104@gmail.com](mailto:samriddhisingh104@gmail.com) &nbsp; 📱 **Mobile:** 9971782597
+- 📬 **Email:** [samriddhisingh104@gmail.com](mailto:samriddhisingh104@gmail.com) &nbsp; 
 - 💬 Open to collaboration on web apps, AI/ML, and cloud projects.
 - 🌈 Always learning and exploring new tech!
 

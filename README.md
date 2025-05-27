@@ -67,25 +67,11 @@
 - Analyzed IBM dataset (Python, Power BI) to find key drivers of employee turnover.
 
 ---
-
-## 🏅 **Awards & Recognitions**
-- 🥉 **2nd Runner Up, KIIT (Jan 2025):** Medal, certificate, & ₹1000 cash prize for research on vehicular fog computing resource management.
-
----
-
 ## 📜 **Certifications**
 | Certification | Certifying Authority |
 |---------------|---------------------|
 | AWS Certified Cloud Practitioner | AWS |
 | Oracle Cloud Infrastructure 2024 Generative AI Certified Professional | Oracle |
-
----
-
-## 🌟 **Positions of Responsibility**
-- 👩‍💼 **Student Coordinator, ICDCIT 2025:** Led event planning, research, sponsorships, and logistics.
-- 🗣️ **Delegate, KIIT MUN 2023:** Represented Greece, honed skills in diplomacy and public speaking.
-- 🎨 **Team Lead, UI/UX Travel App (Elabs Society):** Led design using Figma for intuitive travel app UI.
-- 🤝 **Volunteer, Khwaab:** Mentored underprivileged children in academics and personal growth.
 
 ---
 
